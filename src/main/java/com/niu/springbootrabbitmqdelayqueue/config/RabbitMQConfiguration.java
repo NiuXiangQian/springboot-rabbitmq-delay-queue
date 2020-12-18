@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @description: 生产者
+ * @description: RabbitMQ配置信息
  * @author: nxq email: niuxiangqian163@163.com
  * @createDate: 2020/12/18 8:09 上午
  * @updateUser: nxq email: niuxiangqian163@163.com
